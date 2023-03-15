@@ -6,7 +6,6 @@ profile_picture:
 ---
 I am a currently Ph.D. student in the Graduate School of Data Science at Seoul National University. What I have been delving into:
 <br>
-<br>
 
 
 ## Research Interests <br>
@@ -19,8 +18,7 @@ Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, St
 
 
 *** 
-[Google Scholar](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
 
+[Google Scholar](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
 Curriculum Vitae: will be available soon (in the meantime, request me!) <br>
-E-mail: yesong@snu.ac.kr <br>
 Location: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
