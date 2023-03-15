@@ -8,14 +8,14 @@ I am a currently Ph.D. student in the Graduate School of Data Science at Seoul N
 
 <br>
 <br>
-<br>
+
 
 ## Research Interests <br>
 Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, Statistical Machine Learning, Statistical/Econometric Models <br>
 
 <br>
 <br>
-<br>
+
 
 ## Education <br>
 - Ph.D. in Data Science, _specialized in Causality_, Seoul National University (Since Sep, 2020) - Advisee of [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
