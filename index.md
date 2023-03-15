@@ -11,7 +11,9 @@ I am a currently Ph.D. student in the Graduate School of Data Science at Seoul N
 
 
 ## Research Interests <br>
-Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, Statistical Machine Learning, Statistical/Econometric Models <br>
+Causal Inference/Estimation, Causal Decision Making, <br>
+Causal Machine Learning, Statistical Machine Learning, <br>
+Statistical/Econometric Models <br>
 
 <br>
 <br>
