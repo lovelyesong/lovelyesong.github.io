@@ -20,8 +20,8 @@ Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, St
 
 *** 
 [Google Scholar](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
-[Linkedin] (http://www.linkedin.com/in/yesongchoe) <br> 
-[GitHub] (https://github.com/lovelyesong) <br>
+[Linkedin](http://www.linkedin.com/in/yesongchoe) <br> 
+[GitHub](https://github.com/lovelyesong) <br>
 Curriculum Vitae: will be available soon (in the meantime, request me!) <br>
 E-mail: yesong@snu.ac.kr <br>
 Location: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
