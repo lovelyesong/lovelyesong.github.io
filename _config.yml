@@ -20,18 +20,18 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: dataofyou@snu.ac.kr
-      link: mailto:dataofyou@snu.ac.kr
+      value: yesong@snu.ac.kr
+      link: mailto:yesong@snu.ac.kr
   follow:
     #- name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
     #  username: "@YourTwitterUsername"
     #- name: Facebook
     #  link: http://facebook.com/YourFacebookUsername
-    #- name: LinkedIn
-    #  link: http://linkedin.com/in/YourLinkedInUsername
+    - name: LinkedIn
+     link: http://www.linkedin.com/in/yesongchoe
     - name: GitHub
-      link: http://github.com/Deepstroy/resume
+      link: https://github.com/lovelyesong
     #- name: Dribbble
     #  link: https://dribbble.com/YourDribbbleUsername
     #- name: RSS
