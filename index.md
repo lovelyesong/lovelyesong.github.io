@@ -4,23 +4,24 @@ profile_picture:
   src: /assets/img/mypic.jpeg
   alt: website picture
 ---
-I am a Ph.D. student in Graduate School of Data Science at Seoul National University with my advisor [Prof. Sanghack Lee](https://www.sanghacklee.me/). <br>
+I am a currently Ph.D. student in the Graduate School of Data Science at Seoul National University. What I have been delving into:
 <br>
-I studied Computer Science & Engineering for my B.S. and M.S. degrees. My research field was Human Computer Interaction based on deep learning model. Nowadays, I have been focusing on studying Machine Learning and Reinforcement Learning through a **<span style='background-color: #dcffe4'>CAUSAL LENS</span>**.   
+<br>
+
 
 ## Research Interests <br>
-Causal Inference, Causal Machine Learning, Causal Reinforcement Learning <br>
+Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, Statistical Machine Learning, Statistical/Econometric Models <br>
 
-## Publications <br>
-- Kwon, Y. H., Shin, S. B., & Kim, S. D. (2018). _Electroencephalography based fusion two-dimensional (2D)-convolution neural networks (CNN) model for emotion recognition system._ Sensors, 18(5), 1383.
-- Kwon, Y., Nan, Y., & Kim, S. D. (2017). _Transformation of EEG Signal for Emotion Analysis and Dataset Construction for DNN Learning._ In Advances in Computer Science and Ubiquitous Computing (pp. 96-101). Springer, Singapore.
+## Education <br>
+- Ph.D. in Data Science, specialized in Causality, Seoul National University (Sep, 2020 ~ ) - Advisee of [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
+- M.S. in Management Information Systems (MIS), specialized in Econ-IS, Seoul National University (Class of 2020) - Advisee of [Byungjoon Yoo](https://scholar.google.com/citations?user=d5cN15QAAAAJ&hl=ko&oi=ao) @ [CBA-SNU](https://cba.snu.ac.kr)
+- Dual B.S. in Economics and Statistics (minors in Mathematics and Management), University of Minnesota - Twin Cities (Class of 2014)
 
 
 *** 
-E-mail: dataofyou@snu.ac.kr <br>
-Google Scholar: [link](https://scholar.google.co.kr/citations?user=6cD_BKEAAAAJ&hl=ko)  <br>
-Github: [link](https://github.com/Deepstroy/resume) <br>
-Curriculum Vitae: Coming soon.. <br>
-Contact Information: Bldg #942, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea;
-
-
+[Google Scholar](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
+[Linkedin] (http://www.linkedin.com/in/yesongchoe) <br> 
+[GitHub] (https://github.com/lovelyesong) <br>
+Curriculum Vitae: will be available soon (in the meantime, request me!) <br>
+E-mail: yesong@snu.ac.kr <br>
+Location: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
