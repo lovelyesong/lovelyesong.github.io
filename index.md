@@ -16,9 +16,11 @@ Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, St
 - M.S. in Management Information Systems (MIS), _specialized in Econ-IS_, Seoul National University (Class of 2020) - Advisee of [Byungjoon Yoo](https://scholar.google.com/citations?user=d5cN15QAAAAJ&hl=ko&oi=ao) @ [CBA-SNU](https://cba.snu.ac.kr)
 - Dual B.S. in Economics and Statistics (minors in Mathematics and Management), University of Minnesota - Twin Cities (Class of 2014)
 
+<br>
+<br>
 
 *** 
-
+<br>
 [Google Scholar](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
 Curriculum Vitae: will be available soon (in the meantime, request me!) <br>
 Location: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
