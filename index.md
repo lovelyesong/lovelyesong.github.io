@@ -13,7 +13,7 @@ I am a currently Ph.D. student in the Graduate School of Data Science at Seoul N
 Causal Inference/Estimation, Causal Decision Making, Causal Machine Learning, Statistical Machine Learning, Statistical/Econometric Models <br>
 
 ## Education <br>
-- Ph.D. in Data Science, specialized in Causality, Seoul National University (Sep, 2020 -) - Advisee of [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
+- Ph.D. in Data Science, specialized in Causality, Seoul National University (Since Sep, 2020) - Advisee of [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
 - M.S. in Management Information Systems (MIS), specialized in Econ-IS, Seoul National University (Class of 2020) - Advisee of [Byungjoon Yoo](https://scholar.google.com/citations?user=d5cN15QAAAAJ&hl=ko&oi=ao) @ [CBA-SNU](https://cba.snu.ac.kr)
 - Dual B.S. in Economics and Statistics (minors in Mathematics and Management), University of Minnesota - Twin Cities (Class of 2014)
 
