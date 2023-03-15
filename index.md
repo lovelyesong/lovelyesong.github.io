@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/scaled_mypic.jpeg
+  src: /assets/img/mypic.jpeg
   alt: website picture
 ---
 I am a Ph.D. student in Graduate School of Data Science at Seoul National University with my advisor [Prof. Sanghack Lee](https://www.sanghacklee.me/). <br>
