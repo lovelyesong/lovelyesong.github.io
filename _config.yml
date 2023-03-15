@@ -26,8 +26,8 @@ footer:
     #- name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
     #  username: "@YourTwitterUsername"
-    #- name: Facebook
-    #  link: http://facebook.com/YourFacebookUsername
+    - name: Facebook
+     link: http://facebook.com/im.yesong/
     - name: LinkedIn
      link: http://www.linkedin.com/in/yesongchoe
     - name: GitHub
