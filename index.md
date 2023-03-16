@@ -28,7 +28,7 @@ Statistical/Econometric Models <br>
 <br>
 <br>
 
-## [Publications] <br>
+## Publications <br>
 [Link](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e)
 
 <br>
