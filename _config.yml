@@ -22,6 +22,8 @@ footer:
     - name: Email
       value: yesong@snu.ac.kr
       link: mailto:yesong@snu.ac.kr
+    - name: Location
+      value: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
   follow:
     #- name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
