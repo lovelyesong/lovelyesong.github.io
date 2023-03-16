@@ -4,6 +4,7 @@ profile_picture:
   src: /assets/img/mypic.jpeg
   alt: website picture
 ---
+## About Me <br>
 I am a currently Ph.D. student in the Graduate School of Data Science at Seoul National University. What I have been delving into:
 
 <br>
@@ -29,6 +30,8 @@ Statistical/Econometric Models <br>
 
 ## [Publications] <br>
 [Link](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e)
+
+<br>
 
 ## Curriculum Vitae <br>
 will be available soon (in the meantime, request me!)
