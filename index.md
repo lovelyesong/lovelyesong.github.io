@@ -32,7 +32,7 @@ Statistical/Econometric Models <br>
 <br>
 
 ## Curriculum Vitae <br>
- - will be available soon (in the meantime, request me!)
+will be available soon (in the meantime, request me!)
 
 <!--
 *** 
