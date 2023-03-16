@@ -33,9 +33,12 @@ Statistical/Econometric Models <br>
 <br>
 
 ## Curriculum Vitae <br>
+ - will be available soon (in the meantime, request me!)
 
+<!--
 *** 
 <br>
 [Publications](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
 Curriculum Vitae: will be available soon (in the meantime, request me!) <br>
 Location: 1 Gwanak-ro (bldg# 942, 3rd fl.), Gwanak-gu, Seoul, 08826, South Korea
+-->
