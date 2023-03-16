@@ -8,7 +8,6 @@ profile_picture:
 I am a currently Ph.D. student in the Graduate School of Data Science at Seoul National University. What I have been delving into:
 
 <br>
-<br>
 
 
 ## Research Interests <br>
@@ -16,7 +15,6 @@ Causal Inference/Estimation, Causal Decision Making, <br>
 Causal Machine Learning, Statistical Machine Learning, <br>
 Statistical/Econometric Models <br>
 
-<br>
 <br>
 
 
@@ -26,12 +24,13 @@ Statistical/Econometric Models <br>
 - Dual B.S. in Economics and Statistics (minors in Mathematics and Management), University of Minnesota - Twin Cities (Class of 2014)
 
 <br>
-<br>
+
 
 ## Publications <br>
 [Link](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e)
 
 <br>
+
 
 ## Curriculum Vitae <br>
 will be available soon (in the meantime, request me!)
