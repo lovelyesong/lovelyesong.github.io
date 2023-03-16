@@ -4,7 +4,10 @@ profile_picture:
   src: /assets/img/mypic.jpeg
   alt: website picture
 ---
-<br>
+br {
+   display: block;
+   margin: 10px 0;
+}
 
 ## About Me <br>
 I am a currently Ph.D. student in the Graduate School of Data Science at Seoul National University. What I have been delving into:
