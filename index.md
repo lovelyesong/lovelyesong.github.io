@@ -27,9 +27,8 @@ Statistical/Econometric Models <br>
 <br>
 <br>
 
-## [Publications](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e) <br>
-
-<br>
+## [Publications] <br>
+[Link](https://scholar.google.com/citations?user=0mm9Pz0AAAAJ&hl=e)
 
 ## Curriculum Vitae <br>
 will be available soon (in the meantime, request me!)
