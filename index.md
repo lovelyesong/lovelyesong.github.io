@@ -21,7 +21,7 @@ Statistical/Econometric Models <br>
 
 
 ## Education <br>
-- Ph.D. in Data Science, _specialized in Causality_, Seoul National University (Since Sep, 2020) - Advisee of [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
+- Ph.D. in Data Science, _specialized in Causality_, Seoul National University (Since Sep, 2020) - Advisee of Prof. [Sanghack Lee](https://www.sanghacklee.me/) @ [Causality Lab](https://causality.snu.ac.kr), [GSDS-SNU](https://gsds.snu.ac.kr)
 - M.S. in Management Information Systems (MIS), _specialized in Econ-IS_, Seoul National University (Class of 2020) 
 - Dual B.S. in Economics and Statistics (minors in Mathematics and Management), University of Minnesota - Twin Cities (Class of 2014)
 
