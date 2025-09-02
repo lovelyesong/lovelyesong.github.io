@@ -37,6 +37,11 @@ Statistical/Econometric Models <br>
 ## Curriculum Vitae <br>
 will be available soon (in the meantime, request me!)
 
+<br>
+
+## News <br>
+Honored to be selected for the PhD Fellowship in Science and Engineering (Sep 2025 – Sep 2026), funded by the National Research Foundation of Korea (NRF).
+
 <!--
 *** 
 <br>
